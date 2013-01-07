@@ -2,7 +2,7 @@
 
 ## Script: galgje.sh
 ## Author: Arjen Wiersma
-## Class: Linux hans on
+## Class: Linux hands on
 
 ## Globals ###########################################################
 
